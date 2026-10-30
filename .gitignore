@@ -1,0 +1,12 @@
+# ===== Hasil build (dibuat ulang otomatis) =====
+build/
+dist/
+*.class
+
+# ===== File privat NetBeans (path komputer masing-masing) =====
+nbproject/private/
+
+# ===== File sementara =====
+sources.txt
+hs_err_pid*
+*.log
